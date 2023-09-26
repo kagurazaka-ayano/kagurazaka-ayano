@@ -2,10 +2,10 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/kagurazaka-ayano/count.svg" />
+  <img src="https://profile-counter.glitch.me/kagurazaka-ayano/count.svg"/>
 </p>
 
-![Alt text](./assets/image.png)
+<img src = "./assets/image.png" class = "child" alt = "banner" >
 
 游戏开发者, 时不时做些小工具, 计算机工程学生, 爱来自瓷器
 

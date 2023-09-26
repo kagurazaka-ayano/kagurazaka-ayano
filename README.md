@@ -43,11 +43,5 @@ Game developer, makes some tools occasionally, CE student, love from China
 
 ### 链接 / links
 
-![Pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
+[![Pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/Ayano/)
 
-
-
-<!---
-kagurazaka-ayano/kagurazaka-ayano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

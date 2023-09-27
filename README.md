@@ -1,4 +1,4 @@
-<h1 align="center">神楽坂 綾乃, 参上!</h3>
+<h1 align="center"><font color=lightskyblue>神</font><font color=pink>楽</font>坂 綾乃, 参上!</h3>
 
 <p align="center"> 
   Visitor count<br>
@@ -40,8 +40,3 @@ Game developer, makes some tools occasionally, CE student, love from China
 ### IDE of choice
 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![Clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)![Visual Studio](	https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-### 链接 / links
-
-[![Pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/Ayano/)
-

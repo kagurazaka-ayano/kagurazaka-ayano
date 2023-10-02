@@ -1,4 +1,4 @@
-<h1 align="center"><font color=lightskyblue>神</font><font color=pink>楽</font>坂 綾乃, 参上!</h3>
+<h1 align="center"><font color=lightskyblue>神</font><font color=pink>楽</font>坂 綾乃, 参上!</h1>
 
 <p align="center"> 
   Visitor count<br>

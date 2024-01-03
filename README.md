@@ -2,7 +2,7 @@
 
 <img src = "./assets/image.png" class = "child" alt = "banner" >
 
-Game developer, makes some tools occasionally, CE student
+Computer Engineering student, game developer, software developer, and a lot more.
 
 
 

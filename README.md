@@ -4,8 +4,10 @@
 
 Game developer, makes some tools occasionally, CE student
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kagurazaka-ayano&hide=stars&include_all_commits=true&theme=transparent&text_color=eaa1af&title_color=add8e6&rank_icon=github)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagurazaka-ayano&exclude_repo=Website&size_weight=0.5&count_weight=0.5&langs_count=4&theme=transparent&text_color=eaa1af&title_color=add8e6)
 
 <h2 align="center">learning...</h2>
 
@@ -13,11 +15,11 @@ Game developer, makes some tools occasionally, CE student
 
 <h2 align="center">languages I know...</h2>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![Java](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <h2 align="center">able to work with...</h2>
 
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 <h2 align="center">frameworks used...</h2>
 
@@ -27,42 +29,17 @@ Game developer, makes some tools occasionally, CE student
 
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-<h2 align="center">project showcase</h2>
+<h2 align="center">Project working on...</h2>
+
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kagurazaka-ayano&repo=KawaiiMq&theme=transparent&text_color=eaa1af&title_color=add8e6)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kagurazaka-ayano&repo=YasashiiServer&theme=transparent&text_color=eaa1af&title_color=add8e6)
 
 <a href = "https://store.steampowered.com/app/2191270/Ease_Out/" style="text-align: center;">
-  <h3 align="center"><i>Ease Out</i></h3>
-
   <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2191270/header.jpg?t=1668990354" height="125px" align="center" style="margin: auto;
   display: block">
-
-  <p><i>A rhythm game with vanishing tracks. Will that be easier... <b>or trickier?</b></i></p>
 </a>
 
----
 
-<a href = "https://itch.io/jam/gmtk-2021/rate/1084883" style="text-align: center;">
-  <h3 align="center"><i>Human above</i></h3>
-  <img src="https://img.itch.zone/aW1hZ2UvMTA4NDg4My82MjIxNTkzLnBuZw==/347x500/U7TO94.png" height="125px" align="center" style="margin: auto;
-  display: block">
-  <p><i>Step on each other to advance</i><br>仌仌仌仌仌仌仌仌仌仌仌仌仌仌<br>仌仌仌仌仌仌仌仌仌仌仌仌仌仌</p>
-  <p> </p>
-</a>
-
----
-
-<a href = "https://itch.io/jam/gmtk-jam-2022/rate/1622906" style="text-align: center;">
-  <h3 align="center"><i>Does god roll the dice?</i></h3>
-  <img src="https://img.itch.zone/aW1nLzk1MDU4MTIuanBn/315x250%23c/l7vSTT.jpg" height="125px" align="center" style="margin: auto;
-  display: block">
-  <p>
-    <i>Roll, explore, survive</b></i>
-    <br>⚀ ⚀ ⚃ ⚄ ⚀ ⚃
-  </p>
-  <p></p>
-</a>
-
----
-
-
-<h1 align="center">__EOF__</h1>
 

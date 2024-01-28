@@ -4,10 +4,23 @@
 
 Computer Engineering student, game developer, software developer, and a lot more.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kagurazaka-ayano&hide=stars&include_all_commits=true&theme=transparent&text_color=eaa1af&title_color=add8e6&rank_icon=github)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kagurazaka-ayano&hide=stars&theme=transparent&text_color=eaa1af&title_color=add8e6&rank_icon=github)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagurazaka-ayano&exclude_repo=Website&size_weight=0.5&count_weight=0.5&langs_count=4&theme=transparent&text_color=eaa1af&title_color=add8e6)
+
+<h2 align="center">Project working on...</h2>
+
+
+[![KawaiiMQ](https://github-readme-stats.vercel.app/api/pin/?username=kagurazaka-ayano&repo=KawaiiMq&theme=transparent&text_color=eaa1af&title_color=add8e6)](https://github.com/kagurazaka-ayano/KawaiiMq)
+
+[![Yasashii Server](https://github-readme-stats.vercel.app/api/pin/?username=kagurazaka-ayano&repo=YasashiiServer&theme=transparent&text_color=eaa1af&title_color=add8e6)](https://github.com/kagurazaka-ayano/YasashiiServer)
+
+
+<a href = "https://store.steampowered.com/app/2191270/Ease_Out/" style="text-align: center;">
+  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2191270/header.jpg?t=1668990354" height="125px" align="center" style="margin: auto;
+  display: block">
+</a>
 
 <h2 align="center">learning...</h2>
 
@@ -29,17 +42,8 @@ Computer Engineering student, game developer, software developer, and a lot more
 
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-<h2 align="center">Project working on...</h2>
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kagurazaka-ayano&repo=KawaiiMq&theme=transparent&text_color=eaa1af&title_color=add8e6)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kagurazaka-ayano&repo=YasashiiServer&theme=transparent&text_color=eaa1af&title_color=add8e6)
-
-<a href = "https://store.steampowered.com/app/2191270/Ease_Out/" style="text-align: center;">
-  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2191270/header.jpg?t=1668990354" height="125px" align="center" style="margin: auto;
-  display: block">
-</a>
 
 
 

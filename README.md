@@ -7,7 +7,7 @@ Computer Engineering student, game developer, software developer, and a lot more
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kagurazaka-ayano&hide=stars&theme=transparent&text_color=eaa1af&title_color=add8e6&rank_icon=github)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagurazaka-ayano&exclude_repo=Website&size_weight=0.5&count_weight=0.5&langs_count=4&theme=transparent&text_color=eaa1af&title_color=add8e6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagurazaka-ayano&exclude_repo=ECE198&size_weight=0.5&count_weight=0.5&langs_count=4&theme=transparent&text_color=eaa1af&title_color=add8e6)
 
 <h2 align="center">Project working on...</h2>
 

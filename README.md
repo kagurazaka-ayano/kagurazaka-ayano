@@ -1,37 +1,97 @@
-<h1 align="center"><font color=lightskyblue>神</font><font color=pink>楽</font>坂 綾乃, 参上!</h1>
+# OTONASHI-AYAN(1) User Manual
 
-<img src = "./assets/image.png" class = "child" alt = "banner" >
+## NAME
 
-Computer Engineering student, game developer, software developer, and a lot more.
+`otonashi-ayan` - Computer Engineering student, software developer, and opensource enthusiast
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kagurazaka-ayano&hide=stars&theme=transparent&text_color=eaa1af&title_color=add8e6&rank_icon=github)
+## SYNOPSIS
+
+```bash
+otonashi-ayan [--projects] [--skills] [--about] [--contact]
+```
+
+## DESCRIPTION
+
+A computer engineering student that enjoys opensource projects, tweaking nixos configuration for daily use, and server maintenance. Currently contributing to minecraft related projects and declarative configuration tools.
+
+## OPTIONS
+
+`--projects`
+
+List recent projects I've been working on.
+
+`--about`
+
+Display detailed system information, with fastfetch style.
+
+`--skills`
+
+Show technical skills and expertise level.
+
+`--contact`
+
+Display contact informations.
+
+## ENVIRONMENT
+
+```bash
+LANG=en_US.UTF-8
+EDITOR=nvim
+SHELL=/run/current-system/sw/bin/zsh
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+```
+
+## PROJECTS
+
+- [**nixcraft**](https://github.com/kagurazaka-ayano/nixcraft) - A tool to manage minecraft server on nixos declaratively.
+- [**KawaiiMq**](https://github.com/kagurazaka-ayano/KawaiiMq) - A simple message queue implementation using C++.
+- [**AppleMath**](https://github.com/kagurazaka-ayano/AppleMath) - A header-only wrapper for apple simd library using C++.
+
+## DIAGNOSTICS
+
+### Worked with:
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![WinUI3](https://img.shields.io/badge/WinUI3-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### Fluent with:
+
+![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Familiar with:
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Summary:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagurazaka-ayano&exclude_repo=ECE198&size_weight=0.5&count_weight=0.5&langs_count=4&theme=transparent&text_color=eaa1af&title_color=add8e6)
 
-<h2 align="center">Project working on...</h2>
+## BUGS
 
-[![KawaiiMQ](https://github-readme-stats.vercel.app/api/pin/?username=kagurazaka-ayano&repo=KawaiiMq&theme=transparent&text_color=eaa1af&title_color=add8e6)](https://github.com/kagurazaka-ayano/KawaiiMq)
+No known bugs at this time. Please reach out to report bugs. Consult "SEE ALSO" for more information
 
-[![Yasashii Server](https://github-readme-stats.vercel.app/api/pin/?username=kagurazaka-ayano&repo=YasashiiServer&theme=transparent&text_color=eaa1af&title_color=add8e6)](https://github.com/kagurazaka-ayano/YasashiiServer)
+## SEE ALSO
 
-[![vocal_generating_pack](https://github-readme-stats.vercel.app/api/pin/?username=kagurazaka-ayano&repo=vocal_generating_pack&theme=transparent&text_color=eaa1af&title_color=add8e6)](https://github.com/kagurazaka-ayano/vocal_generating_pack)
+- Email: [kagurazaka-ayako@outlook.com](mailto:kagurazaka-ayako@outlook.com)
 
-<h2 align="center">learning...</h2>
+## AUTHOR
 
-![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+Written by Otonashi Ayano.
 
-<h2 align="center">languages I know...</h2>
+## COPYRIGHT
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+Copyright © 2025 Otonashi Ayano. All Rights Reserved.
 
-<h2 align="center">able to work with...</h2>
-
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-
-<h2 align="center">frameworks used...</h2>
-
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)![Hexo](https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white)![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)![PyQt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-
-<h2 align="center">libraries used...</h2>
-
-![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+```
+otonashi-ayan(1)                User Commands                otonashi-ayan(1)
+```

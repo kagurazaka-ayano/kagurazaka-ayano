@@ -1,13 +1,13 @@
-# OTONASHI-AYAN(1) User Manual
+# OTONASHI-AYANO(1) User Manual
 
 ## NAME
 
-`otonashi-ayan` - Computer Engineering student, software developer, and opensource enthusiast
+`otonashi-ayano` - Computer Engineering student, software developer, and opensource enthusiast
 
 ## SYNOPSIS
 
 ```bash
-otonashi-ayan [--projects] [--skills] [--about] [--contact]
+otonashi-ayano [--projects] [--skills] [--about] [--contact]
 ```
 
 ## DESCRIPTION
@@ -82,7 +82,7 @@ No known bugs at this time. Please reach out to report bugs. Consult "SEE ALSO" 
 
 ## SEE ALSO
 
-- Email: [kagurazaka-ayako@outlook.com](mailto:kagurazaka-ayako@outlook.com)
+- Email: [kagurazaka-ayano@outlook.com](mailto:kagurazaka-ayano@outlook.com)
 
 ## AUTHOR
 
@@ -93,5 +93,5 @@ Written by Otonashi Ayano.
 Copyright © 2025 Otonashi Ayano. All Rights Reserved.
 
 ```
-otonashi-ayan(1)                User Commands                otonashi-ayan(1)
+otonashi-ayano(1)                User Commands                otonashi-ayano(1)
 ```

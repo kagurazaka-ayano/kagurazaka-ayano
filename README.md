@@ -12,7 +12,7 @@ otonashi-ayano [--projects] [--skills] [--about] [--contact]
 
 ## DESCRIPTION
 
-A computer engineering student that enjoys opensource projects, tweaking nixos configuration for daily use, and server maintenance. Currently contributing to minecraft related projects and declarative configuration tools.
+A computer engineering student that enjoys opensource projects, tweaking NixOS configuration for daily use, and server maintenance. Currently contributing to minecraft related projects, declarative configuration tools.
 
 ## OPTIONS
 
@@ -30,7 +30,7 @@ Show technical skills and expertise level.
 
 `--contact`
 
-Display contact informations.
+Display contact information.
 
 ## ENVIRONMENT
 
@@ -46,6 +46,7 @@ PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
 - [**nixcraft**](https://github.com/kagurazaka-ayano/nixcraft) - A tool to manage minecraft server on nixos declaratively.
 - [**KawaiiMq**](https://github.com/kagurazaka-ayano/KawaiiMq) - A simple message queue implementation using C++.
 - [**AppleMath**](https://github.com/kagurazaka-ayano/AppleMath) - A header-only wrapper for apple simd library using C++.
+- [**HikariTracing**](https://github.com/kagurazaka-ayano/HikariTracing) - A path tracing renderer, built in C++.
 
 ## DIAGNOSTICS
 
@@ -63,6 +64,7 @@ PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
 ### Fluent with:
 
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -90,7 +92,7 @@ Written by Otonashi Ayano.
 
 ## COPYRIGHT
 
-Copyright © 2025 Otonashi Ayano. All Rights Reserved.
+Copyright (c) 2025 Otonashi Ayano.
 
 ```
 otonashi-ayano(1)                User Commands                otonashi-ayano(1)
